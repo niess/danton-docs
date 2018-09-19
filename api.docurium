@@ -1,0 +1,11 @@
+{
+    "name":   "DANTON",
+    "github": "niess/danton",
+    "input":  "include",
+    "favicon": "images/favicon.ico",
+    "logo": ["images/danton.gif", "https://github.com/niess/danton"],
+    "prefix": "danton_",
+    "output-repository": "docs",
+    "output-branch": "master",
+    "output-path": "docs"
+}
